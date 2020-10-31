@@ -1,2 +1,0 @@
-# MyData
-Own your data
